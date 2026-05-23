@@ -8,11 +8,13 @@ Users can enter text and the system compares it with stored content to detect po
 ---
 
  Features
-- Text similarity analysis
+- AI-based text similarity analysis
 - Plagiarism percentage detection
-- Comparison with internal database
+- Internal database comparison
 - Multilingual support (🇺🇿 Uzbek, 🇷🇺 Russian, 🇬🇧 English)
-- Simple and user-friendly interface
+- Document upload and analysis
+- Supports DOC, DOCX, PDF, and TXT files
+- Clean and user-friendly interface
 
 ---
 

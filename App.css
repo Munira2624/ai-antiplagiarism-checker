@@ -1,0 +1,137 @@
+body {
+
+  margin: 0;
+
+  font-family: Segoe UI;
+
+}
+
+
+.page {
+
+  background: #f2f4f8;
+
+  height: 100vh;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+}
+
+
+.card {
+
+  width: 420px;
+
+  background: white;
+
+  padding: 50px;
+
+  border-radius: 20px;
+
+  text-align: center;
+
+  box-shadow: 0px 15px 40px rgba(0,0,0,0.15);
+
+}
+
+
+h1 {
+
+  margin-bottom: 30px;
+
+}
+
+
+.fileLabel {
+
+  display: block;
+
+  padding: 15px;
+
+  background: #eef1f6;
+
+  border-radius: 10px;
+
+  cursor: pointer;
+
+  margin-bottom: 20px;
+
+}
+
+
+.fileLabel input {
+
+  display: none;
+
+}
+
+
+.mainButton {
+
+  width: 100%;
+
+  padding: 14px;
+
+  border: none;
+
+  background: #ff4fa3;
+
+  color: white;
+
+  font-size: 16px;
+
+  border-radius: 10px;
+
+  cursor: pointer;
+
+}
+
+
+.mainButton:hover {
+
+  background: #ff2f8f;
+
+}
+
+
+.language {
+
+  position: absolute;
+
+  top: 20px;
+
+  right: 30px;
+
+}
+
+
+.language button {
+
+  margin-left: 6px;
+
+  border: none;
+
+  padding: 6px 12px;
+
+  background: white;
+
+  border-radius: 6px;
+
+  cursor: pointer;
+
+}
+
+
+.result {
+
+  margin-top: 20px;
+
+  font-weight: bold;
+
+  font-size: 18px;
+
+}
